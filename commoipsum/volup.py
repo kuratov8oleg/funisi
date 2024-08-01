@@ -1,0 +1,2 @@
+def emptyValue():
+    return None
